@@ -24,5 +24,4 @@ Asimismo, en la carpeta Default del Designer de Ignition nube, desplegar la carp
 Una vez terminados el diseño y las conexiones del SCADA, éste se puede implementar. Para esto es necesario dirigirse a Tools y luego desde Launch Perspective seleccionar Launch Session, lo cual abrirá una pestaña en el navegador mostrando el SCADA listo para su puesta en marcha.
 
 ![image](https://github.com/jsduenass/TIOT_connection_guide/assets/80609467/f6b8e471-d5a8-4277-944d-63cc3f1943d4)
-![image](https://github.com/jsduenass/TIOT_connection_guide/assets/80609467/06aa846e-cd87-427a-aa93-834c75041024)
-
+![image](https://github.com/jsduenass/TIOT_connection_guide/assets/80609467/583d76b2-258e-4875-a14d-6508bfbdb4f8)
